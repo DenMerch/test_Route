@@ -17,9 +17,7 @@ export const App = () => {
   return (
     <div>
       <nav>
-        <StyledLink to="/" end>
-          Home
-        </StyledLink>
+        <StyledLink to="/" end>Home</StyledLink>
         <StyledLink to="/about">About</StyledLink>
         <StyledLink to="/products">Products</StyledLink>
       </nav>
